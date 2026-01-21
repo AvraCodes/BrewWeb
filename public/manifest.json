@@ -1,0 +1,25 @@
+{
+  "name": "BrewWeb - Web & App Development Agency",
+  "short_name": "BrewWeb",
+  "description": "A web and app development agency based in Kolkata, founded by full-stack developers Avra Paul and Nomesh Singh, delivering production-ready solutions for startups and businesses.",
+  "icons": [
+    {
+      "src": "/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "theme_color": "#28282b",
+  "background_color": "#f0f4f1",
+  "start_url": "/",
+  "scope": ".",
+  "display": "standalone",
+  "orientation": "portrait"
+}
