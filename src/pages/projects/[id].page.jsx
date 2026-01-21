@@ -76,6 +76,7 @@ function Page({ id }) {
       });
       setFluidColor('#d7d7d4');
     };
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [currentProject]);
 
   const seo = useMemo(

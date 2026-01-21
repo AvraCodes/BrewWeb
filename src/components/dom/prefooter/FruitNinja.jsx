@@ -57,6 +57,7 @@ function useFruitSpawner(viewport, textures, slicedTextures, isMobile) {
     return () => {
       clearInterval(spawnInterval);
     };
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [isMobile]);
 
   return fruits;

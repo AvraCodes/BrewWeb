@@ -4,6 +4,7 @@ import FluidEffect from '@src/components/canvas/fluid/effect/FluidEffect';
 import { useIsomorphicLayoutEffect } from '@src/hooks/useIsomorphicLayoutEffect';
 
 const FluidEffectWrapper = forwardRef((props, ref) => {
+  // eslint-disable-next-line react-hooks/exhaustive-deps
   const effect = useMemo(() => new FluidEffect(props), [JSON.stringify(props)]);
 
   useIsomorphicLayoutEffect(

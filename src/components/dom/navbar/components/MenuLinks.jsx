@@ -51,6 +51,7 @@ function MenuLinks() {
       }
       ctx.kill();
     };
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [isLoading, isMobile]);
 
   useEffect(() => {

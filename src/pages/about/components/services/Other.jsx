@@ -152,6 +152,7 @@ const Other = memo(({ setPortals }) => {
         return [...prevPortals, newPortal];
       });
     }
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
   const handleMouseLeave = useCallback((index, optionIndex, option) => {

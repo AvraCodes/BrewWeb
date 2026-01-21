@@ -62,7 +62,6 @@ function About() {
             <div className="p-l">We build production-ready applications,</div>
             <div className="p-l">landing pages, and AI-backed tools with</div>
             <div className="p-l">clean UI and reliable execution</div>
-
           </AppearTitle>
         </div>
         {!isMobile ? renderImageContainer() : null}

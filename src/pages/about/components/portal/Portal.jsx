@@ -24,6 +24,7 @@ function Portal({ children, fadeIn, container }) {
     handleVisibility();
 
     return () => clearTimeout(fadeTimerRef.current);
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [fadeIn]);
 
   if (!isVisible) return null;

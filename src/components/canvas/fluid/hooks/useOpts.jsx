@@ -22,6 +22,7 @@ const useOpts = () => {
       dyeRes: isMobile ? 64 : 256,
       simRes: isMobile ? 16 : 50,
     }),
+    // eslint-disable-next-line react-hooks/exhaustive-deps
     [],
   );
   return OPTS;

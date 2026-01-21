@@ -9,6 +9,7 @@ const usePointerEvents = (mainRef, size, force) => {
 
   useEffect(() => {
     if (!mainRef.current) {
+      // eslint-disable-next-line no-console
       console.error('Main reference is not initialized');
       return undefined;
     }

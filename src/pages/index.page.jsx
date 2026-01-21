@@ -8,8 +8,7 @@ import CustomHead from '@src/components/dom/CustomHead';
 
 const seo = {
   title: 'BrewWeb - Web & App Development Agency',
-  description:
-    'BrewWeb is a web and app development agency in Kolkata, building production-ready applications, landing pages, and AI-backed tools for startups and businesses.',
+  description: 'BrewWeb is a web and app development agency in Kolkata, building production-ready applications, landing pages, and AI-backed tools for startups and businesses.',
   keywords: [
     'BrewWeb',
     'Web Development Agency',
