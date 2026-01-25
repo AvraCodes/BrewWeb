@@ -16,47 +16,17 @@ const projects = [
     fluidColor: '#0028FF',
     images: [
       {
-        src: '/project3/video.mp4',
-        tag: 'video',
-        isRight: false,
-      },
-      {
-        src: '/project3/7.webp',
-        tag: 'small',
-        isRight: false,
-      },
-      {
-        src: '/project3/6.webp',
-        tag: 'small',
-        isRight: true,
-      },
-      {
-        src: '/project3/video2.mp4',
-        tag: 'video',
-        isRight: false,
-      },
-      {
-        src: '/project3/1.webp',
+        src: '/Noir%20cafe/noir-sample-1.png',
         tag: 'big',
         isRight: false,
       },
       {
-        src: '/project3/5.webp',
-        tag: 'small',
-        isRight: false,
-      },
-      {
-        src: '/project3/8.webp',
-        tag: 'small',
-        isRight: true,
-      },
-      {
-        src: '/project3/2.webp',
+        src: '/Noir%20cafe/noir-sample-2.png',
         tag: 'big',
         isRight: false,
       },
       {
-        src: '/project3/3.webp',
+        src: '/Noir%20cafe/noir-sample-3.png',
         tag: 'big',
         isRight: false,
       },
