@@ -5,7 +5,7 @@ const projects = [
     img: '/Noir%20cafe/noir-landing.png',
     link: '/projects/noir-cafe',
     date: '2025',
-    liveLink: undefined,
+    liveLink: 'https://noir-ivory.vercel.app/',
     company: 'Noir Cafe',
     primary: '#2D2D2D',
     accentColor: '#FCFBF7',

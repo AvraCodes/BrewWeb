@@ -12,7 +12,7 @@ const getSchema = () => ({
   jobTitle: 'Senior Frontend Developer',
   url: SITE_URL,
   image: OG_IMAGE,
-  email: 'mailto:contact@brewweb.dev',
+  email: 'mailto:brewweb26@gmail.com',
   sameAs: [],
   alumniOf: [
     { '@type': 'Organization', name: 'Company 1' },

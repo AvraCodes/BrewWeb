@@ -43,7 +43,7 @@ A data analytics platform with real-time dashboards, custom reporting, and seaml
 
 ## 📬 Contact
 
-- 📧 Email: [contact@brewweb.dev](mailto:contact@brewweb.dev)
+- 📧 Email: [brewweb26@gmail.com](mailto:brewweb26@gmail.com)
 - 📍 Location: Kolkata, West Bengal
 
 ---
