@@ -104,6 +104,16 @@ function Footer() {
                 <path d="M0,56.5c0,0,298.666,0,399.333,0C448.336,56.5,513.994,46,597,46c77.327,0,135,10.5,200.999,10.5c95.996,0,402.001,0,402.001,0" />
               </svg>
             </div>
+            <div className={styles.link}>
+              <Link aria-label="Call phone" scroll={false} href="tel:+916396080612">
+                <h4 className={clsx(styles.email, 'h4')}>+91 6396 080 612</h4>
+              </Link>
+            </div>
+            <div className={styles.link}>
+              <Link aria-label="Call phone" scroll={false} href="tel:+916290157592">
+                <h4 className={clsx(styles.email, 'h4')}>+91 6290157592</h4>
+              </Link>
+            </div>
           </div>
         </AppearTitle>
       </div>
